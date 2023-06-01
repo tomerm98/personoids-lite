@@ -5,3 +5,4 @@ workspace/**
 workspace
 env.sh
 env.bat
+.idea/
